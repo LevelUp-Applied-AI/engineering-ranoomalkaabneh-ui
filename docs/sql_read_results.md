@@ -68,6 +68,9 @@
 ('Yasmin Haddad', '2024A', 'Laptop Verify', 1, 'late', 65.0)
 ('Yousef Al-Ahmad', '2025A', 'Laptop Verify', 1, 'late', 52.)
 
+ ## Interpretation
+
+
 **Question 1:** Which cohort had the highest average pre-work score? What might that tell you about how cohorts differ?
 
 Cohort 2024A had the highest average pre-work score (81.8). 
