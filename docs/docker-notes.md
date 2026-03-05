@@ -1,4 +1,4 @@
-# Docker Notes — Day 9
+<img width="455" height="240" alt="image" src="https://github.com/user-attachments/assets/407854c7-cde8-4097-b8c1-95d692844419" /># Docker Notes — Day 9
 
 ## Docker Version
 
@@ -193,3 +193,6 @@ PostgreSQL init process complete; ready for start up.
 
 PowerShell does not support "\" line continuation.  
 Resolved by running docker command in a single line.
+
+<img width="455" height="240" alt="Screenshot 2026-03-05 115400" src="https://github.com/user-attachments/assets/7c830e53-480e-487b-b92d-5f7f78aad36c" />
+
