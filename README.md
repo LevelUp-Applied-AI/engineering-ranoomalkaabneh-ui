@@ -28,3 +28,26 @@ source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
 ```
+## How to run
+
+Follow these steps to run the project locally:
+
+1. Set up the environment:
+   - Open a terminal in the project root directory.
+   - Activate the virtual environment:
+     - Windows: `.venv\Scripts\activate`
+   - Install dependencies:
+     ```
+     pip install -r requirements-prework.txt
+     ```
+
+2. Run the project:
+   - Make sure you are in the root directory of the repository.
+   - Run the appropriate command (for example, running tests):
+     ```
+     pytest
+     ```
+
+3. Confirm success:
+   - All tests should pass without errors.
+   - You should see a summary showing that tests completed successfully.
