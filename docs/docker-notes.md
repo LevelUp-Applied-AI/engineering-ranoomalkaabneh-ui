@@ -191,6 +191,8 @@ PostgreSQL init process complete; ready for start up.
 
 <img width="455" height="240" alt="Screenshot 2026-03-05 115400" src="https://github.com/user-attachments/assets/add4bc6e-e6ca-4f9b-878d-d3c2c8c4f6b8" />
 
+<img width="1637" height="872" alt="Screenshot 2026-03-05 104542" src="https://github.com/user-attachments/assets/79ecee14-d789-49b7-85b9-65008ece5b36" />
+
 
 
 
