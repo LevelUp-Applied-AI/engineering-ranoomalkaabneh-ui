@@ -1,4 +1,4 @@
-<img width="455" height="240" alt="image" src="https://github.com/user-attachments/assets/407854c7-cde8-4097-b8c1-95d692844419" /># Docker Notes — Day 9
+# Docker Notes — Day 9
 
 ## Docker Version
 
@@ -189,8 +189,13 @@ PostgreSQL init process complete; ready for start up.
 2026-03-04 09:29:48.782 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
 
 
-## Issues Encountered
+<img width="455" height="240" alt="Screenshot 2026-03-05 115400" src="https://github.com/user-attachments/assets/add4bc6e-e6ca-4f9b-878d-d3c2c8c4f6b8" />
 
+
+
+
+
+## Issues Encountered
 PowerShell does not support "\" line continuation.  
 Resolved by running docker command in a single line.
 
